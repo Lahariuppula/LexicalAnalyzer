@@ -25,7 +25,7 @@ int main()
     }
     return 0;
 }
-```c
+```
 # Expected Output
 The output lists each recognized token alongside its category.
 ```c
@@ -68,6 +68,6 @@ Int Constant         :  0
 Special Character    :  ;
 R_Brace              :  }
 Tokens generated.
-```c
+```
 # Author
 Soundharya Lahari Uppula

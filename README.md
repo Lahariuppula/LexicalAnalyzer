@@ -13,6 +13,7 @@ Detects preprocessor directives such as #include.
 Reports unknown tokens.
 Reads the input C file through command-line arguments.
 # Sample Input
+```c
 #include <stdio.h>
 int main()
 {

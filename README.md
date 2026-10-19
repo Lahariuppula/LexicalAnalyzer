@@ -25,8 +25,10 @@ int main()
     }
     return 0;
 }
+```c
 # Expected Output
-The output lists each recognized token alongside its category. 
+The output lists each recognized token alongside its category.
+```c
 Preprocessor         :  #include
 Relational Operator  :  <
 Identifier           :  stdio
@@ -66,5 +68,6 @@ Int Constant         :  0
 Special Character    :  ;
 R_Brace              :  }
 Tokens generated.
+```c
 # Author
 Soundharya Lahari Uppula
